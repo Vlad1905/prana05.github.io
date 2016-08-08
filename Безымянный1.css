@@ -1,0 +1,156 @@
+@-webkit-keyframes animate-fade-in
+{
+   0% { opacity: 0;  }
+   100% { opacity: 1;  }
+}
+@-moz-keyframes animate-fade-in
+{
+   0% { opacity: 0;  }
+   100% { opacity: 1;  }
+}
+@-o-keyframes animate-fade-in
+{
+   0% { opacity: 0;  }
+   100% { opacity: 1;  }
+}
+@-ms-keyframes animate-fade-in
+{
+   0% { opacity: 0;  }
+   100% { opacity: 1;  }
+}
+@keyframes animate-fade-in
+{
+   0% { opacity: 0;  }
+   100% { opacity: 1;  }
+}
+@-webkit-keyframes fall
+{
+   0% { -webkit-transform: perspective(1300px) rotateX(20deg) translate3d(0px,0px,600px); opacity: 0;  }
+   100% { -webkit-transform: rotateX(0deg) translate3d(0px,0px,0px); opacity: 1;  }
+}
+@-moz-keyframes fall
+{
+   0% { -moz-transform: perspective(1300px) rotateX(20deg) translate3d(0px,0px,600px); opacity: 0;  }
+   100% { -moz-transform: rotateX(0deg) translate3d(0px,0px,0px); opacity: 1;  }
+}
+@-o-keyframes fall
+{
+   0% { -o-transform: perspective(1300px) rotateX(20deg) translate3d(0px,0px,600px); opacity: 0;  }
+   100% { -o-transform: rotateX(0deg) translate3d(0px,0px,0px); opacity: 1;  }
+}
+@-ms-keyframes fall
+{
+   0% { -ms-transform: perspective(1300px) rotateX(20deg) translate3d(0px,0px,600px); opacity: 0;  }
+   100% { -ms-transform: rotateX(0deg) translate3d(0px,0px,0px); opacity: 1;  }
+}
+@keyframes fall
+{
+   0% { transform: perspective(1300px) rotateX(20deg) translate3d(0px,0px,600px); opacity: 0;  }
+   100% { transform: rotateX(0deg) translate3d(0px,0px,0px); opacity: 1;  }
+}
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+h1
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 32px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h2
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 27px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h3
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 24px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h4
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 21px;
+   font-style: italic;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h5
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 19px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h6
+{
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 16px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+.CustomStyle
+{
+   font-family: "Courier New";
+   font-weight: bold;
+   font-size: 16px;
+   font-style: normal;
+   text-decoration: none;
+   color: #000080;
+   background-color: transparent;
+}
